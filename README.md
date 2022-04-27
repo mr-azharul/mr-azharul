@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <p>Professional software developer with several years of expertise building a wide range of complex and scalable apps. Have a deep understanding of the life cycle of any project and are proﬁcient in all elements of creation, from project strategy to development.</p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
