@@ -48,9 +48,9 @@
   <a href="https://github.com/azharul-orbslab">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azharul-orbslab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azharul-orbslab&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=azharul-orbslab&theme=algolia"/>
-    <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=azharul-orbslab&theme=redical&hide_border=true&area=true"/>
   </a>
+  
+  ![Azharul's G𝚒𝚝𝚑𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=azharul-orbslab&theme=redical&hide_border=true&area=true)
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
