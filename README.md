@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/azharul-orbslab?label=Follow&style=social)](https://github.com/azharul-orbslab)
 
 ### 👨🏻‍💻 &nbsp;About Me
-<p>I'm a professional software developer with several years of experience creating a variety of complex and scalable applications. I have a thorough understanding of any application project life cycle and am skilled in all aspects of creation, from project planning to gathering specifications to writing and testing code, developing documentation, and providing support.</p>
+<p>Web Backend Developer with 3 years of experience working with software development. Skilled in Git, MongoDB, JavaScript, Node.js, Typescript, and REST/RESTful APIs. Experience creating a variety of complex and scalable applications. Thorough understanding of any application project life cycle and skilled in all aspects of creation, from project planning to gather specifications, testing code, developing documentation, and providing support.</p>
 
 <img alt="Night Coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" height="200" align="right"/>
 
@@ -49,8 +49,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-azharul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-azharul&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-  
-  ![Azharul's G𝚒𝚝𝚑𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mr-azharul&theme=redical&hide_border=true&area=true)
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -60,5 +58,5 @@
   <a href="https://linkedin.com/in/mr-azharul"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://facebook.com/azharul.islam.5220"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.leetcode.com/azharul_islam"><img src="https://img.shields.io/badge/-Leetcode-orange?style=flat&logo=Leetcode&logoColor=white"/></a>
-  <a href="https://matching.turing.com/developer-resume/6c1f92ace1c613f829e267895318d4fcad52171a017b7a"><img src="https://img.shields.io/badge/-Turing Profile-BD081C?style=flat&logo=turing&logoColor=white"/></a>
+  <a href="https://matching.turing.com/developer-resume/6c1f92ace1c613f829e267895318d4fcad52171a017b7a"><img src="https://img.shields.io/badge/-Turing Profile-BD081C?style=flat&logo=Turing&logoColor=white"/></a>
 </p>
