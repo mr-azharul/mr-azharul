@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/mr-azharul?label=Follow&style=social)](https://github.com/mr-azharul)
 
 ### 👨🏻‍💻 &nbsp;About Me
-<p>Web Backend Developer with 3 years of experience working with software development. Skilled in Git, MongoDB, JavaScript, Node.js, Typescript, and REST/RESTful APIs. Experience creating a variety of complex and scalable applications. Thorough understanding of any application project life cycle and skilled in all aspects of creation, from project planning to gather specifications, testing code, developing documentation, and providing support.</p>
+<p>Web Backend Developer with 4 years of experience working with software development. Skilled in Git, MongoDB, JavaScript, Node.js, Typescript, and REST/RESTful APIs. Experience creating a variety of complex and scalable applications. Thorough understanding of any application project life cycle and skilled in all aspects of creation, from project planning to gather specifications, testing code, developing documentation, and providing support.</p>
 
 <img alt="Night Coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" height="200" align="right"/>
 
