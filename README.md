@@ -1,7 +1,7 @@
 <h1 align="center"> Azharul Islam </h1>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=azharul-orbslab.azharul-orbslab)
-[![Github](https://img.shields.io/github/followers/azharul-orbslab?label=Follow&style=social)](https://github.com/azharul-orbslab)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=mr-azharul)
+[![Github](https://img.shields.io/github/followers/mr-azharul?label=Follow&style=social)](https://github.com/mr-azharul)
 
 ### 👨🏻‍💻 &nbsp;About Me
 <p>Web Backend Developer with 3 years of experience working with software development. Skilled in Git, MongoDB, JavaScript, Node.js, Typescript, and REST/RESTful APIs. Experience creating a variety of complex and scalable applications. Thorough understanding of any application project life cycle and skilled in all aspects of creation, from project planning to gather specifications, testing code, developing documentation, and providing support.</p>
