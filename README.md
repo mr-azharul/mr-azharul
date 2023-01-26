@@ -51,6 +51,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/azharul_islam">
+    <img height="180em" src="https://leetcard.jacoblin.cool/azharul_islam?theme=dark&font=ABeeZee"/>
+  </a>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
