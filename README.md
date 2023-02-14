@@ -57,6 +57,10 @@
   </a>
 </p>
 
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mr-azharul&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
